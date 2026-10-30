@@ -1,0 +1,19 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+coverage/
+*.iml
+.idea/
+.vscode/*.log
+
+# Android/iOS generated secrets and private files
+android/key.properties
+**/local.properties
+*.jks
+*.keystore
+.DS_Store
